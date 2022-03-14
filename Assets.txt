@@ -1,0 +1,8 @@
+﻿Content/chest_closed.png and Content/chest_open.png - both were downloaded from https://www.vecteezy.com/free-vector/open-treasure-chest
+Content/ComicSans.spritefont - Microsoft owned font and is used under fair use because I own a copy of Windows
+
+Content/WhiteOut.png was created by Austen Clemons in photoshop just a white block
+
+Content/beacon.png came from the Skyrim Wiki at https://elderscrolls.fandom.com/wiki/Meridia%27s_Beacon
+
+Content/ANEWHANDTOUCHESTHEBEACON.mp3 was literally just ripped out of my copy of Skyrim installed on my computer. Owned by Bethesda
